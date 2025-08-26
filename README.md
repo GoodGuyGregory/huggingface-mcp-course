@@ -1,0 +1,1 @@
+# huggingface-mcp-course
