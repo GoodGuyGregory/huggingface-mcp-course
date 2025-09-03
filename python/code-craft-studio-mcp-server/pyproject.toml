@@ -1,0 +1,11 @@
+[project]
+name = "code-craft-studio-mcp-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mcp[cli]==1.0.0",
+    "pytest>=8.3.0",
+    "pytest-asyncio>=0.21.0",
+]
